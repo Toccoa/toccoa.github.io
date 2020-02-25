@@ -2,18 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://toccoa.github.io/</id>
     <title>温故知新</title>
-    <updated>2020-01-25T08:35:51.693Z</updated>
+    <updated>2020-02-25T02:44:01.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://toccoa.github.io/"/>
-    <link rel="self" href="http://toccoa.github.io//atom.xml"/>
+    <link rel="self" href="http://toccoa.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>http://toccoa.github.io//images/avatar.png</logo>
-    <icon>http://toccoa.github.io//favicon.ico</icon>
+    <logo>http://toccoa.github.io/images/avatar.png</logo>
+    <icon>http://toccoa.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 温故知新</rights>
     <entry>
+        <title type="html"><![CDATA[迪拜的奇妙事]]></title>
+        <id>http://toccoa.github.io/post/di-bai-de-qi-miao-shi</id>
+        <link href="http://toccoa.github.io/post/di-bai-de-qi-miao-shi">
+        </link>
+        <updated>2020-02-25T02:42:08.000Z</updated>
+        <content type="html"><![CDATA[<p>这里写一些迪拜的事</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://toccoa.github.io//post/hello-gridea</id>
-        <link href="http://toccoa.github.io//post/hello-gridea">
+        <id>http://toccoa.github.io/post/hello-gridea</id>
+        <link href="http://toccoa.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
